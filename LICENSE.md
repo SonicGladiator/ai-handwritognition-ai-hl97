@@ -1,4 +1,4 @@
-# 
+# Automático AI Handwriting Recognition temas. Con IA explicable y optimización de modelos — optimizado para el máximo rendimiento.
 
 
 
